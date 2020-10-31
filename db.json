@@ -1,178 +1,177 @@
 {
-  "movies": [
-    {
+  "movies": [{
       "id": 1,
       "title": "Dr. No",
-	  "year": 1962,
-	  "actor": "Sean Connery",
+      "year": 1962,
+      "actor": "Sean Connery",
       "gross_inflated_in_USD": "440,759,072"
     },
     {
       "id": 2,
       "title": "From Russia with love",
-	  "year": 1963,
-	  "actor": "Sean Connery",
+      "year": 1963,
+      "actor": "Sean Connery",
       "gross_inflated_in_USD": "576,277,964"
     },
-	{
+    {
       "id": 3,
       "title": "Goldfinger",
-	  "year": 1964,
-	  "actor": "Sean Connery",
+      "year": 1964,
+      "actor": "Sean Connery",
       "gross_inflated_in_USD": "912,257,512"
     },
-	{
+    {
       "id": 4,
       "title": "Thunderball",
-	  "year": 1965,
-	  "actor": "Sean Connery",
+      "year": 1965,
+      "actor": "Sean Connery",
       "gross_inflated_in_USD": "1,014,941,117"
     },
-	{
+    {
       "id": 5,
       "title": "You only live twice",
-	  "year": 1967,
-	  "actor": "Sean Connery",
+      "year": 1967,
+      "actor": "Sean Connery",
       "gross_inflated_in_USD": "756,544,419"
     },
-	{
+    {
       "id": 6,
       "title": "On Her Majesty's Secret Service",
-	  "year": 1969,
-	  "actor": "George Lazenby",
+      "year": 1969,
+      "actor": "George Lazenby",
       "gross_inflated_in_USD": "505,899,782"
     },
-	{
+    {
       "id": 7,
       "title": "Diamonds are forever",
-	  "year": 1971,
-	  "actor": "Sean Connery",
+      "year": 1971,
+      "actor": "Sean Connery",
       "gross_inflated_in_USD": "648,514,469"
     },
-	{
+    {
       "id": 8,
       "title": "Live and let die",
-	  "year": 1973,
-	  "actor": "Roger Moore",
+      "year": 1973,
+      "actor": "Roger Moore",
       "gross_inflated_in_USD": "825,110,761"
     },
-	{
+    {
       "id": 9,
       "title": "The man with the golden gun",
-	  "year": 1974,
-	  "actor": "Roger Moore",
+      "year": 1974,
+      "actor": "Roger Moore",
       "gross_inflated_in_USD": "448,249,281"
     },
-	{
+    {
       "id": 10,
       "title": "The spy who loved me",
-	  "year": 1977,
-	  "actor": "Roger Moore",
+      "year": 1977,
+      "actor": "Roger Moore",
       "gross_inflated_in_USD": "692,713,752"
     },
-	{
+    {
       "id": 11,
       "title": "Moonraker",
-	  "year": 1979,
-	  "actor": "Roger Moore",
+      "year": 1979,
+      "actor": "Roger Moore",
       "gross_inflated_in_USD": "655,872,400"
     },
-	{
+    {
       "id": 12,
       "title": "For your eyes only",
-	  "year": 1981,
-	  "actor": "Roger Moore",
+      "year": 1981,
+      "actor": "Roger Moore",
       "gross_inflated_in_USD": "486,468,881"
     },
-	{
+    {
       "id": 13,
       "title": "Octopussy",
-	  "year": 1983,
-	  "actor": "Roger Moore",
+      "year": 1983,
+      "actor": "Roger Moore",
       "gross_inflated_in_USD": "426,244,352"
     },
-	{
+    {
       "id": 14,
       "title": "A view to a kill",
-	  "year": 1985,
-	  "actor": "Roger Moore",
+      "year": 1985,
+      "actor": "Roger Moore",
       "gross_inflated_in_USD": "321,172,633"
     },
-	{
+    {
       "id": 15,
       "title": "The living daylights",
-	  "year": 1987,
-	  "actor": "Timothy Dalton",
+      "year": 1987,
+      "actor": "Timothy Dalton",
       "gross_inflated_in_USD": "381,088,866"
     },
-	{
+    {
       "id": 16,
       "title": "Licence to kill",
-	  "year": 1989,
-	  "actor": "Timothy Dalton",
+      "year": 1989,
+      "actor": "Timothy Dalton",
       "gross_inflated_in_USD": "285,157,191"
     },
-	{
+    {
       "id": 17,
       "title": "Goldeneye",
-	  "year": 1995,
-	  "actor": "Pierce Brosnan",
+      "year": 1995,
+      "actor": "Pierce Brosnan",
       "gross_inflated_in_USD": "529,548,711"
     },
-	{
+    {
       "id": 18,
       "title": "Tomorrow never dies",
-	  "year": 1997,
-	  "actor": "Pierce Brosnan",
+      "year": 1997,
+      "actor": "Pierce Brosnan",
       "gross_inflated_in_USD": "478,946,402"
     },
-	{
+    {
       "id": 19,
       "title": "The world is not enough",
-	  "year": 1999,
-	  "actor": "Pierce Brosnan",
+      "year": 1999,
+      "actor": "Pierce Brosnan",
       "gross_inflated_in_USD": "491,617,153"
     },
-	{
+    {
       "id": 20,
       "title": "Die another day",
-	  "year": 2002,
-	  "actor": "Pierce Brosnan",
+      "year": 2002,
+      "actor": "Pierce Brosnan",
       "gross_inflated_in_USD": "543,639,638"
     },
-	{
+    {
       "id": 21,
       "title": "Casino royale",
-	  "year": 2006,
-	  "actor": "Daniel Craig",
+      "year": 2006,
+      "actor": "Daniel Craig",
       "gross_inflated_in_USD": "669,789,482"
     },
-	{
+    {
       "id": 22,
       "title": "Quantum of solace",
-	  "year": 2008,
-	  "actor": "Daniel Craig",
+      "year": 2008,
+      "actor": "Daniel Craig",
       "gross_inflated_in_USD": "622,246,378"
     },
-	{
+    {
       "id": 23,
       "title": "Skyfall",
-	  "year": 2012,
-	  "actor": "Daniel Craig",
+      "year": 2012,
+      "actor": "Daniel Craig",
       "gross_inflated_in_USD": "1,108,561,008"
     },
-	{
+    {
       "id": 24,
       "title": "Specte",
-	  "year": 2015,
-	  "actor": "Daniel Craig",
+      "year": 2015,
+      "actor": "Daniel Craig",
       "gross_inflated_in_USD": "880,669,186"
     },
-	{
+    {
       "id": 25,
       "title": "No time to die",
-	  "year": 2021,
-	  "actor": "Daniel Craig"
+      "year": 2021,
+      "actor": "Daniel Craig"
     }
   ]
 }
