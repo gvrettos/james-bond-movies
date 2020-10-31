@@ -1,7 +1,9 @@
 # james-bond-movies
 
 This is a list of all official (EON) James Bond movies up to 2021.
+
 The data may mot be 100% accurate and the sole purpose of this list is to be used as source of data for my demo projects.
+
 All rights are reserved by the owners.
 
 **Sources**
