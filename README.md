@@ -8,4 +8,5 @@ All rights are reserved by the owners.
 
 **Sources**
 * [Movie posters](https://www.movieposterdb.com)
+* [Movie details](https://www.imdb.com/)
 * [Box Office numbers](https://www.007james.com/articles/box_office.php)
